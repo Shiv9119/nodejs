@@ -1,0 +1,25 @@
+Git Hub repository: https://github.com/SangeethaShanmugm
+
+Git hub to VS code connection:
+https://git-scm.com/download/win => download first
+set your username: git config --global user.name "FIRSTNAME LASTNAME"
+                   git config --global user.name "Shiv9119"
+
+                   https://github.com/Shiv9119
+
+set your email adress: git config --global user.email "gsivanodejs@gmail.com"
+
+
+extentions:
+Prrttier -code formater
+spell check
+vs code icon
+gitlens
+githistory
+auto rename tab
+auto close tab
+
+intigration with GITHUB extentions:
+GitHub pull Rquests and issues
+git hub codespace
+github repository
